@@ -33,7 +33,7 @@ The project also includes SQL queries used for:
 📁 SQL files are available in the Shop.sql Folder.
 
 # Data Source
-Source: 
+Source:<br> 
 Retail shopping trends dataset containing customer transactions, product purchases, sales performance, customer demographics, payment information, ratings, and regional sales data.<br>
 
 The dataset includes:

@@ -173,4 +173,4 @@ These insights help optimize inventory and product strategies.
 - Data Visualization
 
 # 📊 Shop Trend Analytics Dashboard
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/vamsi170604/shop_trend-Analysis-/blob/main/shop-trend%20Analysis.png)

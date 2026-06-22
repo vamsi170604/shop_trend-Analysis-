@@ -4,7 +4,7 @@ select * from Shop_trends;
 select SUM(sale_price) as total_revenue from Shop_trends;
 
 --> Total Quantity Sold
-select SUM(quantity) as total_quantity as  from Shop_trends;
+select SUM(quantity) as total_quantity  from Shop_trends;
 
 --> Average Discount
 select ROUND(AVG(discount),2) as avg_discount from shop_trends;
